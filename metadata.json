@@ -1,0 +1,6 @@
+{
+  "name": "SAH Muscle Hub",
+  "description": "Premium gym and fitness club in Joudge Courd, near TV Tower Ground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
